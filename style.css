@@ -1,0 +1,13 @@
+#bg{
+    text-align: center;
+    border: 1px solid brown;
+    width: 900px;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.para{
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 15px;
+}
